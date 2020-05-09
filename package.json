@@ -43,7 +43,7 @@
     "gemini-core": "^5.1.1",
     "inherit": "^2.2.2",
     "lodash": "^4.17.4",
-    "mocha": "~2.4.5",
+    "mocha": "^5.2.0",
     "plugins-loader": "^1.1.0",
     "q": "^2.0.0",
     "q-promise-utils": "^1.0.0",
